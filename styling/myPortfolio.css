@@ -2,10 +2,12 @@
  box-shadow: 0px 1px rgba(0, 0, 0, 0.3);
 }
 .box1{
+
 	box-shadow: 3px 3px 5px green;
-	/*height: 200px;
-	width: 500px;*/
 	border-radius: 15px;
+	 margin-left: 0 5rem ;
+	 margin-right: 0 5rem;
+	 /* padding: 0 10%; */
 }
 .box2, .box3, .box4, .box5{
 box-shadow: 3px 3px 4px gray;
@@ -49,12 +51,14 @@ border-radius: 10px;
 
 		ul.tabs li.current{
 			background: #2d8659;
-			color: #222;
+			color: rgb(233, 236, 237);
+			font-weight: bold;
+			border-radius: 20px;
 		}
 
 		.tab-content{
 			display: none;
-			padding: 15px;
+			padding: 10px;
 		}
 
 		.tab-content.current{
