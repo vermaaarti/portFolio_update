@@ -5,9 +5,7 @@
 
 	box-shadow: 3px 3px 5px green;
 	border-radius: 15px;
-	 margin-left: 0 5rem ;
-	 margin-right: 0 5rem;
-	 /* padding: 0 10%; */
+	 
 }
 .box2, .box3, .box4, .box5{
 box-shadow: 3px 3px 4px gray;
@@ -26,6 +24,7 @@ border-radius: 10px;
 .box9, .box10, .box11, .box12{
 	box-shadow: 2px 2px 3px gray;
 	border: 0px solid gray;
+	border-radius: 20px;
 }
 
 /*src: url("../webfonts/fa-brands-400.eot");
